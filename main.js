@@ -92,7 +92,7 @@ for(i=0;i<animationPlayerActivities.length;i++){
 //NOT WORKING YET
 var customContentActivities = document.getElementsByClassName("custom-content-resource");
 if(customContentActivities){
-	alert("There are "+customContentActivities.length+" activities left on this page!");
+	alert("There is/are "+customContentActivities.length+" activities left on this page!");
 };
 
 // for(i=0;i<customContentActivities.length;i++){
